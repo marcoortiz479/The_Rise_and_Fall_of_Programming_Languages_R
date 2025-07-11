@@ -1,4 +1,4 @@
-# 📉 The Rise and Fall of Programming Languages
+# 📉 The Rise and Fall of Programming Languages | R
 
 This R-based project analyzes the popularity trends of programming languages over time, using a dataset of tag usage by year. The insights are visualized through time series plots and exploratory data analysis.
 
