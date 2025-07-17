@@ -1,6 +1,6 @@
-# 📉 The Rise and Fall of Programming Languages | R
+# 📉 The Rise and Fall of Programming Languages | R (June 2024)
 
-Analyzed usage trends of 15+ programming languages across GitHub and Stack Overflow using R (tidyverse). Created ranked visualizations showing rising and declining popularity over a 10-year span to highlight shifts in developer preferences.
+Analyzed usage trends of 15+ programming languages across GitHub and Stack Overflow using R. Created ranked visualizations showing rising and declining popularity over a 10-year span to highlight shifts in developer preferences.
 
 ## 📁 Project Contents
 
@@ -16,7 +16,6 @@ Analyzed usage trends of 15+ programming languages across GitHub and Stack Overf
 ## 🔧 Tools & Libraries Used
 
 - **R**
-- **tidyverse** (for data manipulation and plotting)
 - **ggplot2** (for data visualization)
 - **readr** (for CSV import)
 - **dplyr** (for wrangling)
