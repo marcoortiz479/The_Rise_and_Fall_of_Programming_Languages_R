@@ -21,3 +21,4 @@ Analyzed usage trends of 15+ programming languages across GitHub and Stack Overf
 - **dplyr** (for wrangling)
 - **GitHub**
 - **Stack Overflow**
+- **Jupyter Notebook**
