@@ -1,6 +1,6 @@
 # 📉 The Rise and Fall of Programming Languages | R
 
-This R-based project analyzes the popularity trends of programming languages over time, using a dataset of tag usage by year. The insights are visualized through time series plots and exploratory data analysis.
+Analyzed usage trends of 15+ programming languages across GitHub and Stack Overflow using R (tidyverse). Created ranked visualizations showing rising and declining popularity over a 10-year span to highlight shifts in developer preferences.
 
 ## 📁 Project Contents
 
@@ -20,3 +20,5 @@ This R-based project analyzes the popularity trends of programming languages ove
 - **ggplot2** (for data visualization)
 - **readr** (for CSV import)
 - **dplyr** (for wrangling)
+- **GitHub**
+- **Stack Overflow**
