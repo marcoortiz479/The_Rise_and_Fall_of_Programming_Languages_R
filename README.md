@@ -1,4 +1,4 @@
-# 📉 The Rise and Fall of Programming Languages | R (June 2024)
+# 📉 The Rise and Fall of Programming Languages
 
 Analyzed usage trends of 15+ programming languages across GitHub and Stack Overflow using R. Created ranked visualizations showing rising and declining popularity over a 10-year span to highlight shifts in developer preferences.
 
